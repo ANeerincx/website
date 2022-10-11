@@ -1,5 +1,5 @@
 ---
-title: Media Appearances
+title: Media
 layout: default
 permalink: /media/
 published: true
