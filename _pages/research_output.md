@@ -7,7 +7,7 @@ published: true
 
 ### SELECTION OF PUBLICATIONS
 
-- Neerincx, A., Leven, J., Wolfert, P., & de Graaf, M. (in press). Simple Emotional Gesturing in a Socially Assistive Robot on Child’s Engagement at a Group Vaccination Day. In Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’23), March 13–16, 2023, Stockholm, Sweden.
+- Neerincx, A., Leven, J., Wolfert, P., & de Graaf, M. M. (2023, March). The Effect of Simple Emotional Gesturing in a Socially Assistive Robot on Child's Engagement at a Group Vaccination Day. In Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 162-171).
 - Neerincx, A., Edens, C., Broz, F., Li, Y., & Neerincx, M. (2022, August). Self-Disclosure to a Robot" In-the-Wild": Category, Human Personality and Robot Identity. In 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 584-591). IEEE.
 - Neerincx, A. (2021, June). Child’s Bonding and Self-Disclosing with a Robot in Family Care. In Interaction Design and Children (pp. 624-626).
 - Neerincx, A., Hiwat, T., & De Graaf, M. (2021, June). Social robot for health check and entertainment in waiting room: Child’s engagement and parent’s involvement. In Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (pp. 120-125).
