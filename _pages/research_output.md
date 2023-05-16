@@ -5,6 +5,8 @@ permalink: /research-output/
 published: true
 ---
 
+For a complete list of my publications, see my scholar profile: https://scholar.google.com/citations?hl=nl&user=efdfDGQAAAAJ
+
 ### SELECTION OF PUBLICATIONS
 
 - Neerincx, A., Leven, J., Wolfert, P., & de Graaf, M. M. (2023, March). The Effect of Simple Emotional Gesturing in a Socially Assistive Robot on Child's Engagement at a Group Vaccination Day. In Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 162-171).
