@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-My main research goal is to make childcare services more efficient, effective and engaging with the help of social robots. I therefore study co-design methods for different types of stakeholders, such as healthcare professionals and children. I also study real-world social robot applications on stress-reduction and self-disclosure, including personalization and trust.
+My main research goal is to make child healthcare services more efficient, effective and engaging with the help of social robots. I therefore study co-design methods for different types of stakeholders, such as healthcare professionals and children. I also study real-world social robot applications on stress-reduction and self-disclosure, including personalization and trust.
 
 ### EDUCATION
 - Ph.D. on Social Human-Robot Interaction. Thesis topic: “Social Robots for Child Mental Support in Health Domain”. Advisors: Prof. Dr. J.F.M. Masthoff, Dr. M.M.A. de Graaf (October 2024, Utrecht University).
