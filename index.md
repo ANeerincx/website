@@ -7,4 +7,4 @@ profile:
 published: true
 ---
 
-Anouk Neerincx is an enthusiastic researcher working in the field of Human-Robot Interaction. She is currently specializing in real-world child-robot interaction research within a 5-year Ph.D. research project (Utrecht University, Human-Centred Computing Group). She is supervised by Dr. Maartje de Graaf and Prof. Dr. Ir. Judith Masthoff.
+I am an enthusiastic researcher working in the field of Human-Robot Interaction. I have a BSc in Psychology and a MSc in Artificial Intelligence (specialized in Cognitive Science). I am currently specializing in co-design and real-world child-robot interaction research within a 5-year Ph.D. research project (Utrecht University, Human-Centred Computing Group). I am supervised by Dr. Maartje de Graaf and Prof. Dr. Ir. Judith Masthoff.
