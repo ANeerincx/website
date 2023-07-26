@@ -12,7 +12,8 @@ My main research goal is to make child healthcare services more efficient, effec
 - Master of Science in Artificial Intelligence, track Cognitive Science. Thesis topic: “Tailoring Online Cognitive Behavioral Therapy via Communication Analysis and Reinforcement Learning” (October 2019, VU University).
 - Bachelor of Science in Psychology, Propaedeutic Exam Bachelor of Science Italian Language & Culture. Thesis topic: “Transitional Probabilities within Adjective-Noun Combinations” (June 2016, Leiden University & Università di Bologna).
 
-### RESEARCH EXPERIENCE
+### OTHER RESEARCH EXPERIENCE
+- Research visit: Development of a game played with a social robot to improve child's emotion recognition. Game design, implementation, testing, and paper writing, supervised by Prof. Ana Paiva (2023, GAIPS lab, Instituto Superior Técnico / INESC ID)
 - Research internship: Data analysis and interviews of the NiceDay app for online therapy. Writing blogs, coaching and support (2019, Sense Health / Nice Day Rotterdam).
 - Research internship: Child’s Culture-Related Experiences with a Social Robot at Diabetes Camps in Italy and the Netherlands (European PAL project) (2016, TNO Den Haag).
 
@@ -20,7 +21,7 @@ My main research goal is to make child healthcare services more efficient, effec
 
 - Women in Information and Computing Sciences (WICS), Steering Committee.
 - CS Diversity Committee, Advisory Board.
-- Reviewer at HRI 2021 and 2022 (Full papers & LBR), and tHRI journal (June 2021).
-- Student Volunteer at several conferences (IDC 2021, AIED 2021).
+- Reviewer at several conferences (e.g., HRI, RO-MAN) and journals (e.g., tHRI).
+- Student Volunteer at several conferences (IDC 2021, AIED 2021, HRI 2023).
 - Workshop Organizer UU Bachelor Open Day 2019.
 - PhD Panel Member UU Master Open Day 2020 and 2021.
