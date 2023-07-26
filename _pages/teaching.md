@@ -5,7 +5,7 @@ permalink: /teaching/
 published: true
 ---
 
-Anouk Neerincx is involved in the following courses, taught at Utrecht University:
+I am involved in the following courses, taught at Utrecht University:
 
 - Human-Computer Interaction Colloquium (Master course, coordinator)
 - Advanced Cognitive and Social Psychology (Master course, lecturer)
