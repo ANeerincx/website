@@ -9,6 +9,7 @@ For a complete list of my publications, see my scholar profile: https://scholar.
 
 ### SELECTION OF PUBLICATIONS
 
+- Neerincx, A., Li, Y., van de Sande, K., Broz, F., Neerincx, M., and de Graaf, M. (in press). Child’s Personality and Self-Disclosures to a Robot Persona “In-The-Wild”. In 2023 32st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE.
 - Neerincx, A., Leven, J., Wolfert, P., & de Graaf, M. M. (2023, March). The Effect of Simple Emotional Gesturing in a Socially Assistive Robot on Child's Engagement at a Group Vaccination Day. In Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 162-171).
 - Neerincx, A., Edens, C., Broz, F., Li, Y., & Neerincx, M. (2022, August). Self-Disclosure to a Robot" In-the-Wild": Category, Human Personality and Robot Identity. In 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 584-591). IEEE.
 - Neerincx, A., Hiwat, T., & de Graaf, M. (2021, June). Social Robot for Health Check and Entertainment in Waiting Room: Child’s Engagement and Parent’s Involvement. In Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (pp. 120-125).
