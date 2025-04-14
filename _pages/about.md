@@ -7,8 +7,10 @@ published: true
 
 My main research goal is to make child healthcare services more efficient, effective and engaging with the help of social robots. I therefore study co-design methods for different types of stakeholders, such as healthcare professionals and children. I also study real-world social robot applications on stress-reduction and self-disclosure, including personalization and trust.
 
+I am currently working at HU University of Applied Sciences as a Lecturer-Researcher, where I combine research with teaching. As a social robotics researcher I am currently working on the 'Droomrobot' project at the Lectoraat Smart Systems for Healthy Living. I am working as a lecturer at the Institute for ICT. 
+
 ### EDUCATION
-- Ph.D. on Social Human-Robot Interaction. Thesis topic: “Social Robots for Child Mental Support in Health Domain”. Advisors: Prof. Dr. J.F.M. Masthoff, Dr. M.M.A. de Graaf (October 2024, Utrecht University).
+- Ph.D. on Social Human-Robot Interaction. Thesis topic: “Robots that Care: How Social Robots Can Boost Children's Mental Wellbeing”. Advisors: Prof. Dr. J.F.M. Masthoff, Dr. M.M.A. de Graaf (March 2025, Utrecht University).
 - Master of Science in Artificial Intelligence, track Cognitive Science. Thesis topic: “Tailoring Online Cognitive Behavioral Therapy via Communication Analysis and Reinforcement Learning” (October 2019, VU University).
 - Bachelor of Science in Psychology, Propaedeutic Exam Bachelor of Science Italian Language & Culture. Thesis topic: “Transitional Probabilities within Adjective-Noun Combinations” (June 2016, Leiden University & Università di Bologna).
 
