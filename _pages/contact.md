@@ -5,10 +5,12 @@ permalink: /contact/
 published: true
 ---
 
-Anouk Neerincx, MSc., PhD Candidate
+Dr. Anouk Neerincx, Lecturer-Researcher
 
-Department of Information and Computing Sciences, Faculty of Science, Utrecht University
+Lectoraat Smart Systems for Healthy Living | Institute for ICT
+HU University of Applied Sciences
 
-Princetonplein 5 (Buys Ballotbuilding), room 4.15, 3584 CC, Utrecht, The Netherlands
+Padualaan 99, 3584 CH Utrecht, The Netherlands
 
-a.neerincx@uu.nl 
+anouk.neerincx@hu.nl 
++31614331076
