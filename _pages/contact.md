@@ -12,5 +12,4 @@ HU University of Applied Sciences
 
 Padualaan 99, 3584 CH Utrecht, The Netherlands
 
-anouk.neerincx@hu.nl 
-+31614331076
+anouk.neerincx@hu.nl | +31614331076
