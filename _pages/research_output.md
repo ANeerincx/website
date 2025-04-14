@@ -6,6 +6,7 @@ published: true
 ---
 
 For a complete list of my publications, see my scholar profile: https://scholar.google.com/citations?hl=nl&user=efdfDGQAAAAJ
+You can read my PhD thesis here: https://www.globalacademicpress.com/ebooks/anouk_neerincx/
 
 ### SELECTION OF PUBLICATIONS
 
@@ -13,7 +14,7 @@ For a complete list of my publications, see my scholar profile: https://scholar.
 
 - A. Neerincx, J. Leven, P. Wolfert, and M. M. de Graaf, “The effect of simple emotional gesturing in a socially assistive robot on child’s engagement at a group vaccination day,” in Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction, ser. HRI ’23, Stockholm, Sweden: Association for Computing Machinery, 2023, pp. 162–171, isbn: 9781450399647. doi: https://doi.org/10.1145/3568162.3576960.
 
-- A. Neerincx, Y. Li, K. van de Sande, F. Broz, M. Neerincx, and M. de Graaf, “Child’s personality and self-disclosures to a robot persona “in-the-wild”,” in 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023, pp. 1202–1209. doi: 10.1109/RO-MAN57019.2023.10309477.
+- A. Neerincx, Y. Li, K. van de Sande, F. Broz, M. Neerincx, and M. de Graaf, “Child’s personality and self-disclosures to a robot persona “in-the-wild”,” in 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023, pp. 1202–1209. doi: https://doi.org/10.1109/RO-MAN57019.2023.10309477.
 
 - A. Neerincx, D. Veldhuis, J. M. Masthoff, and M. M. de Graaf, “Co-designing a social robot for child health care,” International Journal of Child-Computer Interaction, vol. 38, p. 100 615, 2023, issn: 2212-8689. doi: https://doi.org/10.1016/j.ijcci.2023.100615.
   
