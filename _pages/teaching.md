@@ -5,7 +5,9 @@ permalink: /teaching/
 published: true
 ---
 
-I am involved in the following courses, taught at Utrecht University:
+I am currently supervising projects and teaching Programming and AI in the HBO-ICT Bachelor degree at HU University of Applied Sciences.
+
+In the past, I have been involved in the following courses, taught at Utrecht University:
 
 - Human-Computer Interaction Colloquium (Master course, coordinator)
 - Advanced Cognitive and Social Psychology (Master course, lecturer)
