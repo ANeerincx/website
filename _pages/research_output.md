@@ -5,8 +5,9 @@ permalink: /research-output/
 published: true
 ---
 
-For a complete list of my publications, see my scholar profile: https://scholar.google.com/citations?hl=nl&user=efdfDGQAAAAJ
-You can read my PhD thesis here: https://www.globalacademicpress.com/ebooks/anouk_neerincx/
+For a complete list of my publications, see my [Google scholar](https://scholar.google.com/citations?hl=nl&user=efdfDGQAAAAJ).
+
+You can find my PhD thesis as an e-book [here](https://www.globalacademicpress.com/ebooks/anouk_neerincx/).
 
 ### SELECTION OF PUBLICATIONS
 
@@ -26,12 +27,5 @@ You can read my PhD thesis here: https://www.globalacademicpress.com/ebooks/anou
 
 - A. Neerincx, F. Sacchitelli, R. Kaptein, S. van der Pal, E. Oleari, and M. A. Neerincx, “Child’s culture-related experiences with a social robot at diabetes camps,” in 2016 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2016, pp. 485–486. doi: https://doi.org/10.1109/HRI.2016.7451818.
 
-### OTHER PRESENTATIONS & POSTERS
 
-- “Social Robots to Support Child and Family Care: A Dutch Use Case”, HRI 2021, LBR Presentation.
-- “Co-design with Children for Social Robot Implementations in Child and Family Care”, HRI 2021, Workshop Talk.
-- “Designing Child-Robot Interactions for Child and Family Care Settings”, RO-MAN 2021, Workshop Talk.
-- “Child’s Bonding and Self-Disclosing with a Robot in Family Care.”, IDC 2021, Doctoral Consortium.
-- “Social Robots for Child and Family Care: Qualitative Methods for Adults and Children”, ICSR 2020, Workshop Talk.
-- “Social Robots: An overview of the current state-of-the-art”, Alice & Eve 2020, Poster Presentation.
 
