@@ -5,7 +5,7 @@ permalink: /teaching/
 published: true
 ---
 
-I am currently supervising projects and teaching Programming and AI in the HBO-ICT Bachelor degree at HU University of Applied Sciences.
+I am currently involved as a lecturer in the HBO-ICT Bachelor degree and HCAI Master degree at HU University of Applied Sciences.
 
 In the past, I have been involved in the following courses, taught at Utrecht University:
 
