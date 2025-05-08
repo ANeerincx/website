@@ -7,7 +7,7 @@ published: true
 
 ### NRC INTERVIEW (IN DUTCH), 1 May 2025
 
-I was the subject of a profile article in the recurring column `Jong Geleerd' of Dutch national newspaper NRC, highlighting my work and background: [NRC](https://www.nrc.nl/nieuws/2025/05/01/een-goede-zorgrobot-blijft-een-beetje-robot-a4891640)
+I was the subject of a profile article in the recurring column `Jong Geleerd' of Dutch national newspaper NRC, highlighting my work and background: [NRC](https://www.nrc.nl/nieuws/2025/05/01/een-goede-zorgrobot-blijft-een-beetje-robot-a4891640).
 
 ### NU.NL INTERVIEW (IN DUTCH), 04 April 2025
 
