@@ -14,5 +14,5 @@ Het centrum voor jeugd en gezin (CJG Capelle) provides a broad range of child an
 ### RESEARCH VISIT AT GAIPS LAB, INESC-ID / INSTITUTO SUPERIOR TÉCNICO, LISBON, PORTUGAL, 2023
 In this project, we designed a game played with a social robot to teach children about emotions. The end goal of the game is to help children in developing their emotional compentence skills. The game and effects of different types of robot behaviour were tested at primary schools. 
 
-### PAL PROJECT
+### PAL PROJECT, 2015
 In this project, we developed a social robot buddy to help children with diabetes. I contributed by studying cultural differences of Italian and Dutch children in interacting with the robot. You can read the paper about my research [here](https://ieeexplore.ieee.org/abstract/document/7451818).
