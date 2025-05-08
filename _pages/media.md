@@ -5,6 +5,15 @@ permalink: /media/
 published: true
 ---
 
+### RTL NIEUWS INTERVIEW (IN DUTCH), 3 May 2025
+
+The Dutch national news channel RTL Nieuws featured a segment on the real-world implementation of my research on social robots in child healthcare — including robots that inform children during group vaccinations and those that support emotional development during coaching sessions.
+
+<video width="100%" controls>
+  <source src="https://video.wixstatic.com/video/af3ef9_c7fe7e0741384c9a9c888ef3273865cf/1080p/mp4/file.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### NRC INTERVIEW (IN DUTCH), 1 May 2025
 
 I was the subject of a profile article in the recurring column `Jong Geleerd' of Dutch national newspaper NRC, highlighting my work and background: [NRC](https://www.nrc.nl/nieuws/2025/05/01/een-goede-zorgrobot-blijft-een-beetje-robot-a4891640).
