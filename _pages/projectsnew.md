@@ -5,94 +5,44 @@ permalink: /projects/
 published: true
 ---
 
-<style>
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
-}
+<h2>Projects</h2>
 
-.project-card {
-  position: relative;
-  background-color: #f9f9f9;
-  border: 1px solid #e1e4e8;
-  border-radius: 12px;
-  padding: 1rem;
-  overflow: hidden;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  cursor: pointer;
-}
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: start; margin-top: 1.5rem;">
 
-.project-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-}
-
-.project-title {
-  font-weight: 600;
-  font-size: 1.1rem;
-  margin-bottom: 0.5rem;
-  color: #1a1a1a;
-}
-
-.project-date {
-  font-size: 0.85rem;
-  color: #666;
-  margin-bottom: 0.75rem;
-}
-
-.project-description {
-  font-size: 0.95rem;
-  color: #333;
-  display: none;
-}
-
-.project-card:hover .project-description {
-  display: block;
-}
-</style>
-
-<div class="project-grid">
-
-<div class="project-card">
-  <div class="project-title">PANORAIMA</div>
-  <div class="project-date">2025 – ongoing</div>
-  <div class="project-description">
-    EU-funded project expanding AI education beyond ICT fields, building on HCAIM. Includes 16 partners co-developing AI curricula and flexible modules for up/reskilling professionals across Europe.
-  </div>
+<!-- PANORAIMA -->
+<div style="flex: 1 1 300px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1rem; box-shadow: 2px 2px 6px rgba(0,0,0,0.05); transition: 0.3s;">
+  <h3 style="margin-top: 0;">PANORAIMA</h3>
+  <p><em>2025 – ongoing</em></p>
+  <p>PANORAIMA (Pan-European Network for Responsible Artificial Intelligence Multisector Masters) is an ambitious EU-funded initiative under the DIGITAL-SKILLS-5 call. Officially launched on January 29–30 at HU University of Applied Sciences Utrecht, PANORAIMA builds on the foundation set by the Human-Centred AI Master’s (HCAIM) project, expanding AI education beyond ICT students to professionals in diverse sectors.</p>
+  <p>The project brings together 16 consortium members – 8 European universities, 4 research centers, and 4 SMEs – to develop AI curricula that align with evolving market needs. PANORAIMA will also introduce self-standing modules for upskilling and reskilling professionals, making AI education more accessible across Europe.</p>
 </div>
 
-<div class="project-card">
-  <div class="project-title">DROOMROBOT</div>
-  <div class="project-date">2025 – 2026</div>
-  <div class="project-description">
-    <a href="https://www.hu.nl/onderzoek/projecten/droomrobot">This project</a> explores using social robots with "guided imagery" to reduce anxiety and pain in hospitalized children during medical procedures.
-  </div>
+<!-- DROOMROBOT -->
+<div style="flex: 1 1 300px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1rem; box-shadow: 2px 2px 6px rgba(0,0,0,0.05); transition: 0.3s;">
+  <h3 style="margin-top: 0;">DROOMROBOT</h3>
+  <p><em>2025 – 2026</em></p>
+  <p>In <a href="https://www.hu.nl/onderzoek/projecten/droomrobot">this project</a>, we investigate how a social robot can use 'guided imagery' to reduce anxiety and pain in hospitalized children. The goal is to develop a widely applicable robot that supports children during various medical procedures.</p>
 </div>
 
-<div class="project-card">
-  <div class="project-title">CJG Capelle</div>
-  <div class="project-date">2020 – 2025</div>
-  <div class="project-description">
-    Exploring how social robots can support care at the Dutch Child and Family Center using mixed-methods research, including waiting room and coaching session trials.
-  </div>
+<!-- CJG -->
+<div style="flex: 1 1 300px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1rem; box-shadow: 2px 2px 6px rgba(0,0,0,0.05); transition: 0.3s;">
+  <h3 style="margin-top: 0;">CENTRUM VOOR JEUGD EN GEZIN (DUTCH CHILD AND FAMILY CENTER)</h3>
+  <p><em>2020 – 2025</em></p>
+  <p>Het centrum voor jeugd en gezin (CJG Capelle) provides a broad range of child and family care, ranging from eye tests to family coaching. In this project we study potential real-world applications for social robots in their practices. Qualitative research methods, such as focus groups with experts and co-design workshops with children, are combined with quantitative methods, such as measuring the effect of a social robot in a waiting room, during coaching sessions, or at group vaccination days.</p>
 </div>
 
-<div class="project-card">
-  <div class="project-title">GAIPS Lab Visit</div>
-  <div class="project-date">2023</div>
-  <div class="project-description">
-    Developed and tested a social robot game to support emotional learning in children. Evaluated robot behaviors in real classrooms at Portuguese primary schools.
-  </div>
+<!-- GAIPS -->
+<div style="flex: 1 1 300px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1rem; box-shadow: 2px 2px 6px rgba(0,0,0,0.05); transition: 0.3s;">
+  <h3 style="margin-top: 0;">RESEARCH VISIT AT GAIPS LAB, INESC-ID / INSTITUTO SUPERIOR TÉCNICO, LISBON, PORTUGAL</h3>
+  <p><em>2023</em></p>
+  <p>In this project, we designed a game played with a social robot to teach children about emotions. The end goal of the game is to help children in developing their emotional competence skills. The game and effects of different types of robot behaviour were tested at primary schools.</p>
 </div>
 
-<div class="project-card">
-  <div class="project-title">PAL Project</div>
-  <div class="project-date">2015</div>
-  <div class="project-description">
-    Created a robot buddy for children with diabetes; studied how Italian and Dutch children interact differently with the robot. <a href="https://ieeexplore.ieee.org/abstract/document/7451818">Read the paper</a>.
-  </div>
+<!-- PAL -->
+<div style="flex: 1 1 300px; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1rem; box-shadow: 2px 2px 6px rgba(0,0,0,0.05); transition: 0.3s;">
+  <h3 style="margin-top: 0;">PAL PROJECT</h3>
+  <p><em>2015</em></p>
+  <p>In this project, we developed a social robot buddy to help children with diabetes. I contributed by studying cultural differences of Italian and Dutch children in interacting with the robot. You can read the paper about my research <a href="https://ieeexplore.ieee.org/abstract/document/7451818">here</a>.</p>
 </div>
 
 </div>
