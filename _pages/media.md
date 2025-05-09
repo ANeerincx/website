@@ -5,9 +5,15 @@ permalink: /media/
 published: true
 ---
 
+### PODCAST HOEZO DAN...?! SOCIALE ROBOTS IN DE JEUGDHULP, 7 May 2025
+
+In this podcast episode I talk about my PhD research project in the context of social robots for youth care, about the research that has been done, how the robots are currently being used and what the plans are for the future.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1bY6R324IFtd0W4I85HS8z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### RTL NIEUWS INTERVIEW (IN DUTCH), 3 May 2025
 
-The Dutch national news channel RTL Nieuws featured a segment on the real-world implementation of my research on social robots in child healthcare — including robots that inform children during group vaccinations and those that support emotional development during coaching sessions.
+The Dutch national news channel RTL Nieuws featured a segment on the real-world implementation of my research on social robots in child healthcare, including robots that inform children during group vaccinations and those that support emotional development during coaching sessions.
 
 <video width="100%" controls>
   <source src="https://video.wixstatic.com/video/af3ef9_c7fe7e0741384c9a9c888ef3273865cf/1080p/mp4/file.mp4" type="video/mp4">
