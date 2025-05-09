@@ -67,7 +67,7 @@ published: true
   <div class="project-title">DROOMROBOT</div>
   <div class="project-date">2025 – 2026</div>
   <div class="project-description">
-    <a href="https://www.hu.nl/onderzoek/projecten/droomrobot">This project</a> explores using social robots with guided imagery to reduce anxiety and pain in hospitalized children during medical procedures.
+    <a href="https://www.hu.nl/onderzoek/projecten/droomrobot">This project</a> explores using social robots with "guided imagery" to reduce anxiety and pain in hospitalized children during medical procedures.
   </div>
 </div>
 
