@@ -30,6 +30,10 @@ I was interviewed by a Dutch local newspaper on the topic of my PhD research (so
 
 Just before my PhD defense, I was interviewed by Utrecht University on my PhD research about social robots providing mental support to children in general healthcare settings. You can read the interview in [English](https://www.uu.nl/en/background/a-robot-as-a-buddy-in-healthcare-children-really-see-it-as-a-friend) or [Dutch](https://www.uu.nl/achtergrond/een-robot-als-maatje-in-de-zorg-kinderen-zien-hem-echt-als-een-vriendje).
 
+### SPEAKER AT CHILDREN"S EVENT "HET ROBOT COMPLOT", 09 October 2022
+
+I was an invited speaker at the Dutch Media Week for the children's theatre event ["Het Robot Complot"](https://www.dutchmediaweek.nl/programma/het-robot-complot/).
+
 ### NPO 1 RADIO FOCUS INTERVIEW AT BETWETER FESTIVAL (IN DUTCH), 8 October 2021 
 
 We carried out a study at a Dutch science festival (Betweter) in 2021 on the topic of robot behavior, human personality, and self-disclosure. I was interviewed about my research by Dutch national radio: [NPO Radio 1 Focus](https://www.nporadio1.nl/fragmenten/focus/3cd8e17b-0521-475f-a6c3-261ac429bcaf/2021-10-08-geef-jij-je-bloot-aan-een-robot).
