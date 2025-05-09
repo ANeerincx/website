@@ -13,7 +13,6 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "AnoukNeerincx"
 linkedin: "anouk-neerincx-9858b0141"
 
 # Markdown
@@ -53,6 +52,7 @@ sass:
 
 include:
   - _pages
+  - assets
 
 exclude:
   - README.md
